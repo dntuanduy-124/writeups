@@ -1,2 +1,2 @@
 # writeups
-This is where I sumerize for ctf challenge
+This is where I summarize for ctf challenge
