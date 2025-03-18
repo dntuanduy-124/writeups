@@ -16,7 +16,7 @@ Lets try qrcode:
 https://bahamas10.github.io/binary-to-qrcode/
 
 It yield:
-![alt text](imgage-qr/qr.png)
+![alt text](image-qr/qr.png)
 
 ```bash
 zbarimg qr.png 
